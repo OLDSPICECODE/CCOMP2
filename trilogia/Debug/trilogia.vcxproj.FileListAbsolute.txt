@@ -1,0 +1,2 @@
+C:\Users\Intel\source\repos\trilogia\Debug\trilogia.exe
+C:\Users\Intel\source\repos\trilogia\Debug\trilogia.pdb

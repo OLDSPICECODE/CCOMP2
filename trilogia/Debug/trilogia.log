@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Intel\source\repos\trilogia\Mojanj.h(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Intel\source\repos\trilogia\Mojanj.h(58,6): warning C4101: 'aux': unreferenced local variable
+  trilogia.vcxproj -> C:\Users\Intel\source\repos\trilogia\Debug\trilogia.exe
